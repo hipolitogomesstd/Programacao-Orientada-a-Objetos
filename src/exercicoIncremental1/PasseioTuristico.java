@@ -1,4 +1,4 @@
-package exercicio1;
+package exercicoIncremental1;
 
 public class PasseioTuristico {
     private String cidadeDestino;
